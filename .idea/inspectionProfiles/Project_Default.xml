@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="selenium" />
+          <option value="tuple.Select_by_visible_text" />
+          <option value="tuple.Select_by_value" />
+          <option value="selenium.webdriver.common.by.By.name" />
+          <option value="tuple.select_by_visible_text" />
+          <option value="tuple.click" />
+          <option value="tuple.select_by_value" />
+          <option value="DocumentDelete.drpFirm" />
+          <option value="test.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
